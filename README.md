@@ -28,6 +28,7 @@ Lisible reconnaît automatiquement le format de chaque ligne, sépare les champs
 - 🪜 **Stack traces regroupées** : les lignes de suite d'une erreur PHP sont rattachées à leur entrée, avec la ligne brute à copier dans un ticket
 - 🙈 **« Masquer les IP »** : tronque les adresses à l'écran et dans les copies, pour partager une capture sans exposer le réseau
 - 🌗 **Thème clair / sombre**
+  
 ![Filtrage sur les erreurs](docs/03-filtre-erreurs.jpg)
  
 ## Formats pris en charge
