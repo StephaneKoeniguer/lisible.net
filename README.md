@@ -63,7 +63,6 @@ Pour les très gros fichiers, un filtre appliqué à l'ouverture (erreurs seulem
 - **Web Worker** pour analyser en arrière-plan, avec une lecture du fichier par morceaux
 - **Content Security Policy** stricte, qui interdit toute requête sortante
 - **Hébergement** : site statique
-- **Workflow** : Git (branche `dev` → pull request → `main`), puis déploiement
   
 ## Choix techniques
  
